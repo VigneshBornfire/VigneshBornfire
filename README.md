@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f5132,100:00ff41&height=230&section=header&text=Vignesh%20Subramani&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=c9d1d9&animation=fadeIn" width="100%"/>
@@ -10,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/VIGNESH-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117)](https://www.linkedin.com/in/vimal-l-8a0586227/)
 [![Gmail](https://img.shields.io/badge/vigneshsubramanisr-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:vigneshsubramanisr@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vimal7397&label=Profile+Views&color=00ff41&style=for-the-badge)](https://github.com/Vimal7397)
+[![Profile Views](https://komarev.com/ghpvc/?username=VigneshSubramani&label=Profile+Views&color=00ff41&style=for-the-badge)](https://github.com/VigneshSubramani)
 
 </div>
 
@@ -81,13 +80,13 @@
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vimal7397&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshSubramani&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
 
 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vimal7397&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VigneshSubramani&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
 
@@ -120,6 +119,6 @@ Thank you for visiting my profile! 😊
 </div>
 
 <!---
-Vimal7397/Vimal7397 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VigneshSubramani/VigneshSubramani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
